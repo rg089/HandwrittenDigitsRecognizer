@@ -42,21 +42,30 @@ for a single prediction, and the highest average prediction is chosen to improve
 <br><br>
 
 <h1 align="center">:bar_chart: Results</h1>
+
 <p align="center">
   <br><br>
-  <img src = "outputs/result_nums22.jpeg" alt="Result_1>
-  <br><br>
-  <img src = "outputs/result_nums3.jpeg" alt="Result_2>
-  <br><br>
-  <img src = "outputs/result_nums8.jpeg" alt="Result_3>
+  <img src = "outputs/result_nums22.jpeg" alt="Result_1">
   <br><br>
 </p>
-
+                                               
+<p align="center">
+  <br><br>
+  <img src = "outputs/result_nums3.jpeg" alt="Result_2">
+  <br><br>
+</p>
+                                              
+<p>
+  <br><br>
+  <img src = "outputs/result_nums8.jpeg" alt="Result_3">
+  <br><br>
+</p>
+                                                                                      
 <h1 align="center">:clap: Credits and Inspiration</h1>
 
 * <i>Dr. Adrian Rosebrock</i> - His book on OpenCV and his blog have helped tremendously.
 * ```imutils.py``` is a modified version of Dr. Rosebrock's package ```imutils```.
-* Architecture of the CNN inspired by <a href="https://www.kaggle.com/cdeotte/how-to-choose-cnn-architecture-mnist/>this post.</a>
+* Architecture of the CNN inspired by [this post.](https://www.kaggle.com/cdeotte/how-to-choose-cnn-architecture-mnist/)
 <br><br>
 
 <h1 align="center">:pray: Thanks!</h1>
